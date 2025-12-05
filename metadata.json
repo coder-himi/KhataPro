@@ -1,0 +1,8 @@
+{
+  "name": "KhataPro - Digital Ledger",
+  "description": "A professional digital ledger for shop owners to manage customers, transactions (Lena-Dena), and expenses with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
